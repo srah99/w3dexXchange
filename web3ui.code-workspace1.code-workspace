@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "web3ui",
+			"path": "."
+		},
+		{
+			"path": "hardhat-fund-me-forked-fcc"
+		}
+	],
+	"settings": {}
+}
