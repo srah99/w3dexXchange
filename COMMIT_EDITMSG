@@ -1,0 +1,27 @@
+
+# Please enter the commit message for your changes. Lines starting
+#Added the contract.sol and a ethers lib if needed# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   ethers-5.6.esm.min.js
+#	new file:   hardhat-fund-me-forked-fcc/hardhat-fund-me-forked-fcc
+#	new file:   hardhat-fund-me-forked-fcc/node_modules/.yarn-integrity
+#	new file:   hardhat-fund-me-forked-fcc/yarn.lock
+#	new file:   index.html
+#	new file:   index.js
+#	new file:   node_modules/.yarn-integrity
+#	new file:   web3ui.code-workspace1.code-workspace
+#	new file:   yarn-error.log
+#	new file:   yarn.lock
+#
+# Changes not staged for commit:
+#	modified:   index.html
+#	modified:   index.js
+#
+# Untracked files:
+#	constant.js
+#
