@@ -1,1 +1,1 @@
-# w3dexXchange
+# Currency Protected Deposit
